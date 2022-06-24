@@ -1,0 +1,94 @@
+{
+    "Header" : [{
+        "name": "Header",
+        "menuItems": [ {"name" : "Home","id": "#Home"},
+            {"name" : "Product","id": "#product"},
+            {"name" : "Service","id": "#service"},
+            {"name" : "Video","id": "#video"},
+            {"name" : "About Us","id":"#aboutus"},
+            {"name" : "Contact Us","id": "#contactus"}],
+        "logo": "/Images/anokhi-urja-New.png"
+    }],
+    "Banner" : [{
+        "name": "banner section",
+        "title" : "Title Here",
+        "subheading": "Lorem Ipsum available but the majority have suffered alteration in some form, by injected humour randomised words."
+    }],
+    "ImageSlider" : [
+        {
+            "id": 1,
+            "image" : "/Images/DCLighting.jpg"
+        },
+        {
+            "id": 2,
+            "image" : "/Images/powerBoxonTheGo.jpg"
+        }
+    ],
+    "AboutUs" : [{
+        "name": "AboutUs Section",
+        "subheading": "Ecology is Your Best Investment",
+        "paragraph": "Lorem ipsum lor fermum dolor eletum nulla eu pla eletum nulla eu placerat etum nulla eu place etiam tincidunt tiam tincidunt orci lacus id varius dolor fermum sit amet. Lorem ipsum dolor tincidunt orci lacus id varius dolor fermum dolor eletum nulla eu placerat etum nulla eu place etiam tincidunt tiam tincidunt orci lacus id varius dolor fermum ncidunt orci lacus id varius dolor fermum sit amet. Best of business planning Experienced business advisor Advisor for your business Reliable for your business consultancy",
+        "aboutusImage": "/Images/solar-panels.jpg"
+    }],
+    "Awards" : [{
+        "name": "Award Section",
+        "awardimg1": "/Images/onwer1.jpg",
+        "awardimg2": "/Images/award.jpg",
+        "awardinfo": "Resolition of environmental protection and conservation of the plant"
+    }],
+    "OurProducts" : [{
+        "name": "Our Products",
+        "img1": "/Images/DCLighting.jpg",
+        "img2": "/Images/powerBoxonTheGo.jpg",
+        "img3": "/Images/powerbox3.jpg",
+        "img4": "/Images/powerbox1.jpg"
+    }],
+    "ProductGallery" : [{
+        "name": "product gallery",
+        "img1": "/Images/powerbox1.jpg",
+        "img2": "/Images/powerbox2.jpg",
+        "img3": "/Images/powerbox3.jpg",
+        "img4": "/Images/powerbox4.jpg",
+        "img5": "/Images/powerbox5.jpg",
+        "img6": "/Images/powerbox6.jpg",
+        "img7": "/Images/powerbox7.jpg",
+        "img8": "/Images/powerbox8.jpg"
+    }],
+    "Service" : [{
+        "name": "Service Section",
+        "subheading": "Were working day and night to provide America wit reliable,cost-efficient solar energy panels and systems!",
+        "cardheading1": "RESIDENTIAL",
+        "cardimage1": "/Images/image1.png",
+        "cardinfo1": "Going green and swapping your old conventional energy grid for a solar panel is a responsible decision.We understand that, as by now we’ve already helped thousands of American…",
+        "cardheading2": "RESIDENTIAL",
+        "cardimage2": "/Images/image2.png",
+        "cardinfo2": "Going green and swapping your old conventional energy grid for a solar panel is a responsible decision.We understand that, as by now we’ve already helped thousands of American…",
+        "cardheading3": "RESIDENTIAL",
+        "cardimage3": "/Images/image3.png",
+        "cardinfo3": "Going green and swapping your old conventional energy grid for a solar panel is a responsible decision.We understand that, as by now we’ve already helped thousands of American…"
+    }],
+    "Blog" : [{
+        "name": "blog section",
+        "Heading": "BLOGS"
+    }],
+    "Contactform" : [{
+        "name": "Contact Us",
+        "location": "B/107, Darshan Geeta, Mira Bhayandar Road. Mira Road, East, Mumbai-401107, Maharashtra, India",
+        "email": "anokhiurja@gmail.com",
+        "mobile": "9820172600",
+        "message": "If you are interested in our product , send us email to connect us"
+    }],
+    "Footer" : [{
+        "footerlogo": "/Images/footerLogo.png",
+        "subheading1": "Quick Links",
+        "quicklink1": "About Us",
+        "quicklink2": "Contact Us",
+        "quicklink3": "Services",
+        "quicklink4": "Products",
+        "subheading2": "Social-media",
+        "subheading3": "Location",
+        "addressh": "Address",
+        "address": "B/104,Prarthana bldg,Sanghvi Nagar Mira Bhayandar Road,Mira Road,Thane,Maharashtra"
+
+    }]
+}
